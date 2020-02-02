@@ -1,0 +1,17 @@
+
+
+/*ここからheader-right*/
+
+.header-right{
+    display: flex;
+    align-items: flex-end;
+}
+
+.header-right>li{
+    text-decoration: none;
+    color: white;
+}
+
+.header-right>li a:hover{
+    color: ghostwhite;
+}
